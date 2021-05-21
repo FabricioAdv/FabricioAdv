@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my world 🌎
 
-- I'm live in Brazil, southeast
+- I'm living in southeastern Brazil
 - I have been learning more about <img align="center" alt="react" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">  <img align="center" alt="redux" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="max-width:100%;">  <img align="center" alt="kotlin" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" style="max-width:100%;">  <img align="center" alt="nodejs" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">  <img align="center" alt="materialui" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" style="max-width:100%;">  <img align="center" alt="spring" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="max-width:100%;">
 - I’m currently working with systems development on [*ARV Systems*](https://www.arvsystems.com.br/) - Empresa de desenvolvimento de máquinas especiais para automação industrial
 
