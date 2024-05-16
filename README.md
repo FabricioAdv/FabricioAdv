@@ -5,7 +5,7 @@
 Bem vindo ao meu mundo 🌎
 
 * Eu moro no sudeste do Brasil
-* EU estou aprendendo mais sobre ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+* Eu estou aprendendo mais sobre ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 *  Eu estou atualmente trabalhando com desenvolvimento de sistemas na [*ARV Systems*](https://www.arvsystems.com.br/) - Empresa de desenvolvimento de máquinas especiais para automação industrial
 
 ## Contatos:
